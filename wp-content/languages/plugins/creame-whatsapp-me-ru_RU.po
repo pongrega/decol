@@ -1,0 +1,1056 @@
+# Translation of Plugins - Joinchat - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Joinchat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-20 10:38:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Joinchat - Stable (latest release)\n"
+
+#: admin/class-joinchat-premium.php:90
+msgid "Add-ons"
+msgstr "Расширения"
+
+#: includes/class-joinchat-i18n.php:106 includes/class-joinchat-i18n.php:153
+msgid "Manage translations"
+msgstr "Управление переводами"
+
+#: includes/class-joinchat-i18n.php:104
+msgid "Settings are defined in the main language"
+msgstr "Настройки определяются на основном языке"
+
+#: includes/class-joinchat-i18n.php:102 includes/class-joinchat-i18n.php:149
+msgid "Default site language"
+msgstr "Язык сайта по умолчанию"
+
+#: admin/partials/premium.php:33
+msgid "View details"
+msgstr "Посмотреть детали"
+
+#: admin/partials/premium.php:19 admin/partials/premium.php:45
+msgid "Description"
+msgstr "Описание"
+
+#: admin/partials/premium.php:17 admin/partials/premium.php:43
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: admin/class-joinchat-premium.php:126
+msgctxt "Add-on description"
+msgid "<strong>Simple funnels like a messaging chatbot.</strong> Create lead capture, qualification or support funnels by simulating conversations with a chatbot."
+msgstr "<strong>Простые воронки, такие как чат-бот для обмена сообщениями.</strong> Создавайте воронки захвата лидов, квалификации или поддержки, имитируя разговоры с чат-ботом."
+
+#: admin/class-joinchat-premium.php:125
+msgctxt "Add-on name"
+msgid "Chat Funnels"
+msgstr "Chat Funnels (Воронки чата)"
+
+#: admin/class-joinchat-premium.php:122
+msgctxt "Add-on description"
+msgid "<strong>Add more contact channels.</strong> Allows you to add more contact channels (from more than 10 apps) in addition to WhatsApp. Now you can add Telegram, Facebook Messenger, Tiktok, Snapchat, SMS, phone calls, Skype, FaceTime and more."
+msgstr "<strong>Добавить больше каналов связи.</strong> Позволяет добавить больше каналов связи (из более чем 10 приложений) в дополнение к WhatsApp. Теперь вы можете добавить Telegram, Facebook Messenger, Tiktok, Snapchat, SMS, телефонные звонки, Skype, FaceTime и многое другое."
+
+#: admin/class-joinchat-premium.php:121
+msgctxt "Add-on name"
+msgid "OmniChannel"
+msgstr "OmniChannel"
+
+#: admin/class-joinchat-premium.php:118
+msgctxt "Add-on description"
+msgid "<strong>Contact buttons for each agent with availability times.</strong> Manage multiple WhatsApp accounts with their name, department and working hours. Your visitors will be able to contact the agent of their choice and know how long it will be until the agents are available."
+msgstr "<strong>Кнопки связи для каждого агента с указанием времени доступности.</strong> Управление несколькими учетными записями WhatsApp с их именем, отделом и рабочим временем. Ваши посетители смогут связаться с агентом по своему выбору и узнать, сколько времени пройдет, пока агенты не будут доступны."
+
+#: admin/class-joinchat-premium.php:117
+msgctxt "Add-on name"
+msgid "Random Phone"
+msgstr "Случайный телефон"
+
+#: admin/class-joinchat-premium.php:114
+msgctxt "Add-on description"
+msgid "<strong>A contact button with multiple WhatsApp numbers.</strong> Avoid collapsing your support, pre-sales or orders chat. Add as many WhatsApp numbers as you have support or sales staff. Your customers will randomly access each of them distributing the workload evenly."
+msgstr "<strong>Кнопка контакта с несколькими номерами WhatsApp.</strong> Не закрывайте чат поддержки, предварительных продаж или заказов. Добавьте столько номеров WhatsApp, сколько у вас есть сотрудников службы поддержки или продаж. Ваши клиенты будут получать доступ к каждому из них случайным образом, равномерно распределяя нагрузку."
+
+#: admin/class-joinchat-premium.php:113
+msgctxt "Add-on name"
+msgid "Support Agents"
+msgstr "Support Agents (Агенты поддержки)"
+
+#: admin/class-joinchat-premium.php:110
+msgctxt "Add-on description"
+msgid "<strong>Enhance your Calls to Action.</strong> Create more engaging content in the chat window for better conversion. Add links, videos, images, animated GIFs, buttons or even embedded content from other platforms such as Calendly, surveys, forms…"
+msgstr "<strong>Усовершенствуйте свои призывы к действию.</strong> Создавайте более привлекательный контент в окне чата для повышения конверсии. Добавляйте ссылки, видео, изображения, анимированные GIF-файлы, кнопки или даже встроенный контент с других платформ, таких как Calendly, опросы, формы…"
+
+#: admin/class-joinchat-premium.php:109
+msgctxt "Add-on name"
+msgid "CTA Extras"
+msgstr "Добавочный Призыв к действию"
+
+#: admin/class-joinchat-premium.php:91
+msgid "Enable only the features you need to optimize resource load and improve your user experience."
+msgstr "Включите только те функции, которые вам нужны, чтобы оптимизировать нагрузку на ресурсы и улучшить взаимодействие с пользователем."
+
+#: admin/class-joinchat-premium.php:86
+msgid "Go Premium"
+msgstr "Перейти на Premium"
+
+#: admin/class-joinchat-premium.php:85
+msgid "Take your customer service to the next level with <b>Joinchat Premium</b>!"
+msgstr "Поднимите обслуживание клиентов на новый уровень с помощью <b>Joinchat Premium</b>!"
+
+#: admin/class-joinchat-premium.php:83
+msgid "In addition, you will receive specialized technical support to solve any questions or issues you may have."
+msgstr "Кроме того, вы получите специализированную техническую поддержку для решения любых вопросов или проблем, которые могут у вас возникнуть."
+
+#: admin/class-joinchat-premium.php:82
+msgid "With <b>Joinchat Premium</b> you can enjoy exclusive features such as advanced Call to Action customization, multiple agents with scheduling of service hours, add other contact channels and much more."
+msgstr "С <b>Joinchat Premium</b> вы можете пользоваться эксклюзивными функциями, такими как расширенная настройка призыва к действию, несколько агентов с расписанием часов работы, добавление других каналов связи и многое другое."
+
+#: admin/class-joinchat-admin-page.php:713
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: admin/class-joinchat-admin-page.php:665
+msgid "If you need to access the setup wizard again, please click on the button below:"
+msgstr "Если вам нужно снова получить доступ к мастеру настройки, щёлкните на кнопку ниже:"
+
+#. translators: %s: premium url.
+#: admin/class-joinchat-admin-page.php:644
+msgid "You can also buy <strong><a href=\"%s\" target=\"_blank\">Joinchat Premium</a></strong> with one year of support service included."
+msgstr "Вы также можете приобрести <strong><a href=\"%s\" target=\"_blank\">Joinchat Premium</a></strong> с годовой поддержкой."
+
+#. translators: 1: docs url, 2: wordpress.org plugin support url.
+#: admin/class-joinchat-admin-page.php:639
+msgid "If you need help, first check the <a href=\"%1$s\" target=\"_blank\">documentation</a> and if you don't find the solution you can consult the <a href=\"%2$s\" target=\"_blank\">plugin's free support forum</a>."
+msgstr "Если вам нужна помощь, сначала ознакомьтесь с <a href=\"%1$s\" target=\"_blank\">документацией</a>, а если вы не найдете решения, обратитесь к <a href=\"%2$s\" target=\"_blank\">бесплатный форум поддержки плагина</a>."
+
+#: admin/class-joinchat-admin-page.php:634
+msgid "Help & Support"
+msgstr "Помощь и поддержка"
+
+#: admin/class-joinchat-admin-page.php:535
+msgid "All Joinchat settings will be removed"
+msgstr "Все настройки Joinchat будут удалены"
+
+#. translators: %s: CSS tricks link.
+#: admin/class-joinchat-admin-page.php:527
+msgid "You can find examples and more tricks <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Вы можете найти примеры и другие хитрости <a href=\"%s\" target=\"_blank\">здесь</a>."
+
+#: admin/class-joinchat-admin-page.php:521
+msgid "Add your own CSS code here to customize the appearance of Joinchat."
+msgstr "Добавьте сюда свой собственный код CSS, чтобы настроить внешний вид Joinchat."
+
+#: admin/class-joinchat-admin-page.php:498
+msgid "Here you can include legal text about how you will use the user's contact and the conditions they accept, or other important information."
+msgstr "Здесь вы можете включить юридический текст о том, как вы будете использовать контактные данные пользователя и условия, которые они принимают, или другую важную информацию."
+
+#: admin/class-joinchat-admin-page.php:318
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+#: admin/class-joinchat-admin-page.php:294
+msgid "If a \"Call to Action\" is defined, the Chat Window can be displayed automatically to capture the user's attention."
+msgstr "Если определен «Призыв к действию», окно чата может отображаться автоматически, чтобы привлечь внимание пользователя."
+
+#: admin/class-joinchat-admin-page.php:292
+msgid "Show automatically"
+msgstr "Показать автоматически"
+
+#: admin/class-joinchat-admin-page.php:279
+msgid "Set the contact number and the appearance of the WhatsApp button."
+msgstr "Установите номер контакта и внешний вид кнопки WhatsApp."
+
+#: admin/class-joinchat-admin-page.php:219
+#: admin/class-joinchat-admin-page.php:533
+msgid "Clear on uninstall"
+msgstr "Очистить при удалении"
+
+#: admin/class-joinchat-admin-page.php:218
+#: admin/class-joinchat-admin-page.php:520
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: admin/class-joinchat-admin-onboard.php:207
+msgctxt "onboard"
+msgid "😖 Sorry, something went wrong."
+msgstr "😖 Извините, что-то пошло не так."
+
+#: admin/class-joinchat-admin-onboard.php:206
+msgctxt "onboard"
+msgid "🥳 Great, <strong>Joinchat</strong> is up and running."
+msgstr "🥳 Отлично, <strong>Joinchat</strong> запущен и работает."
+
+#: admin/class-joinchat-admin-onboard.php:203
+msgctxt "onboard"
+msgid "No, thanks"
+msgstr "Нет, спасибо"
+
+#: admin/class-joinchat-admin-onboard.php:202
+msgctxt "onboard"
+msgid "OK, keep me posted"
+msgstr "Хорошо, держи меня в курсе"
+
+#. translators: %s: Terms of Use link.
+#: admin/class-joinchat-admin-onboard.php:199
+msgctxt "onboard"
+msgid "I accept the <a href=\"%s\" target=\"_blank\">terms of use and privacy policy</a>"
+msgstr "Я принимаю <a href=\"%s\" target=\"_blank\">условия использования и политику конфиденциальности</a>"
+
+#: admin/class-joinchat-admin-onboard.php:197
+msgctxt "onboard"
+msgid "Finally, do you want us to send you tips to improve conversion with <strong>Joinchat</strong>?"
+msgstr "Наконец, вы хотите, чтобы мы присылали вам советы по улучшению конверсии с помощью <strong>Joinchat</strong>?"
+
+#: admin/class-joinchat-admin-onboard.php:196
+msgctxt "onboard"
+msgid "I don't want a CTA"
+msgstr "Я не хочу призыв к действию"
+
+#: admin/class-joinchat-admin-onboard.php:192
+msgctxt "onboard"
+msgid "Define a Call to Action message to prompt users to interact."
+msgstr "Определите сообщение с призывом к действию, чтобы побудить пользователей к взаимодействию."
+
+#: admin/class-joinchat-admin-onboard.php:191
+msgctxt "onboard"
+msgid "I don't want a message"
+msgstr "Мне не нужно сообщение"
+
+#: admin/class-joinchat-admin-onboard.php:190
+#: admin/class-joinchat-admin-onboard.php:195
+msgctxt "onboard"
+msgid "Continue with this text"
+msgstr "Продолжить этот текст"
+
+#: admin/class-joinchat-admin-onboard.php:187
+msgctxt "onboard"
+msgid "Add the text for the first message that users will send you via WhatsApp."
+msgstr "Добавьте текст для первого сообщения, которое пользователи отправят вам через WhatsApp."
+
+#: admin/class-joinchat-admin-onboard.php:186
+msgctxt "onboard"
+msgid "Done, let's continue"
+msgstr "Готово, продолжаем"
+
+#: admin/class-joinchat-admin-onboard.php:185
+msgctxt "onboard"
+msgid "Please tell me your WhatsApp number"
+msgstr "Скажите, пожалуйста, ваш номер WhatsApp"
+
+#: admin/class-joinchat-admin-onboard.php:184
+msgctxt "onboard"
+msgid "👌 OK, let's start."
+msgstr "👌 Хорошо, начинаем."
+
+#. translators: %s: User display name.
+#: admin/class-joinchat-admin-onboard.php:181
+msgctxt "onboard"
+msgid "Hey, <em>%s</em>. Let's set up <strong>Joinchat</strong> in less than 2 minutes."
+msgstr "Привет, <em>%s</em>. Давай настроим <strong>Joinchat</strong> менее чем за 2 минуты."
+
+#: admin/class-joinchat-admin-onboard.php:94
+#: admin/class-joinchat-admin-onboard.php:208
+msgid "go to Joinchat Settings"
+msgstr "перейдите в настройки Joinchat"
+
+#: admin/class-joinchat-admin-onboard.php:93
+msgid "Exit the wizard and"
+msgstr "Выйдите из мастера и"
+
+#: admin/class-joinchat-admin-onboard.php:27
+#: admin/class-joinchat-admin-onboard.php:115
+#: admin/class-joinchat-admin-page.php:666
+msgid "Welcome to Joinchat"
+msgstr "Добро пожаловать в Joinchat"
+
+#: admin/class-joinchat-woo-admin.php:262
+msgid "Add a contact button on the single product page."
+msgstr "Добавьте кнопку контакта на отдельной странице товара."
+
+#: admin/class-joinchat-woo-admin.php:312
+msgid "The position may vary depending on the theme or some plugins, try until you find the best location"
+msgstr "Положение может варьироваться в зависимости от темы или некоторых плагинов, пробуйте, пока не найдете лучшее расположение"
+
+#: admin/class-joinchat-woo-admin.php:155
+#: admin/class-joinchat-woo-admin.php:156
+#: admin/class-joinchat-woo-admin.php:157
+#: admin/class-joinchat-woo-admin.php:158
+msgid "Only when product has price"
+msgstr "Только когда у товара есть цена"
+
+#: admin/class-joinchat-woo-admin.php:153
+msgid "After share links"
+msgstr "После обмена ссылками"
+
+#: admin/class-joinchat-woo-admin.php:152
+msgid "After meta info"
+msgstr "После метаинформации"
+
+#: admin/class-joinchat-woo-admin.php:151
+msgid "After short description"
+msgstr "После краткого описания"
+
+#: admin/class-joinchat-woo-admin.php:150
+msgid "After price"
+msgstr "После цены"
+
+#: admin/class-joinchat-woo-admin.php:149
+msgid "After title"
+msgstr "После заголовка"
+
+#: admin/class-joinchat-admin-page.php:357
+msgid "Test Number"
+msgstr "Тестовый номер"
+
+#. translators: 1: attribute phone, 2: attribute message.
+#: admin/class-joinchat-admin-page.php:613
+msgid "You can set <strong>custom phone and initial message</strong> for direct WhatsApp triggers with attributes %1$s and %2$s."
+msgstr "Вы можете установить <strong>пользовательский номер телефона и исходное сообщение</strong> для прямых триггеров WhatsApp с атрибутами %1$s и %2$s."
+
+#: admin/class-joinchat-admin-page.php:625
+msgid "On scroll (when element appears on screen):"
+msgstr "При прокрутке (когда элемент появляется на экране):"
+
+#: admin/class-joinchat-admin-page.php:618
+#: admin/class-joinchat-admin-page.php:621
+msgid "to open WhatsApp directly."
+msgstr "чтобы открыть WhatsApp напрямую."
+
+#: admin/class-joinchat-admin-page.php:610
+msgid "On click:"
+msgstr "При нажатии:"
+
+#: admin/class-joinchat-admin-page.php:602
+msgid "Any element in your pages can be a chat trigger:"
+msgstr "Любой элемент на ваших страницах может стать триггером чата:"
+
+#: gutenberg/build/block_btn/block.json
+msgctxt "block keyword"
+msgid "phone"
+msgstr "телефон"
+
+#: gutenberg/build/block_btn/block.json
+msgctxt "block keyword"
+msgid "contact"
+msgstr "контакт"
+
+#: gutenberg/build/block_btn/block.json
+msgctxt "block keyword"
+msgid "QR"
+msgstr "QR"
+
+#: gutenberg/build/block_btn/block.json
+msgctxt "block keyword"
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: gutenberg/build/block_btn/block.json
+msgctxt "block description"
+msgid "WhatsApp contact button"
+msgstr "Кнопка связи в WhatsApp"
+
+#: gutenberg/build/block_btn/block.json
+msgctxt "block title"
+msgid "Joinchat Button"
+msgstr "Кнопка Присоединиться к чату"
+
+#: includes/class-joinchat-common.php:104 gutenberg/build/index.js:1
+msgid "Scan the code"
+msgstr "Отсканируйте код"
+
+#: admin/class-joinchat-admin-page.php:514
+msgid "Conversion label"
+msgstr "Этикетка конверсии"
+
+#: admin/class-joinchat-admin-page.php:513
+msgid "Conversion ID"
+msgstr "ID конверсии"
+
+#: admin/class-joinchat-woo-admin.php:316
+msgid "Ask for More Info"
+msgstr "Спросите больше информации"
+
+#: admin/class-joinchat-woo-admin.php:311
+msgid "Select the position of the button on the product page"
+msgstr "Выберите позицию кнопки на странице товара"
+
+#: admin/class-joinchat-woo-admin.php:261
+msgid "Product Button"
+msgstr "Кнопка Товар"
+
+#: admin/class-joinchat-woo-admin.php:214
+msgid "Button Position"
+msgstr "Позиция кнопки"
+
+#: admin/class-joinchat-woo-admin.php:161
+msgid "Don't show"
+msgstr "Не показывать"
+
+#: admin/class-joinchat-woo-admin.php:154
+msgid "After \"Additional information\""
+msgstr "После \"Дополнительная информация"
+
+#: admin/class-joinchat-woo-admin.php:158
+msgid "After \"Add To Cart\" form"
+msgstr "После \"Добавить в корзину\""
+
+#: admin/class-joinchat-woo-admin.php:157
+msgid "After \"Add To Cart\" button"
+msgstr "После кнопки \"Добавить в корзину\""
+
+#: admin/class-joinchat-woo-admin.php:156
+msgid "Before \"Add To Cart\" button"
+msgstr "Перед кнопкой \"Добавить в корзину\""
+
+#: admin/class-joinchat-woo-admin.php:155
+msgid "Before \"Add To Cart\" form"
+msgstr "Перед \"Добавить в корзину\""
+
+#: admin/class-joinchat-premium.php:31 admin/class-joinchat-premium.php:47
+#: admin/class-joinchat-premium.php:80
+msgid "Premium"
+msgstr "Премиум"
+
+#: admin/class-joinchat-admin-page.php:516
+msgid "Send the conversion automatically at the chat start"
+msgstr "Отправлять конверсию автоматически в начале чата"
+
+#: admin/class-joinchat-admin-page.php:506
+msgid "User approval is required to enable the contact button"
+msgstr "Для включения кнопки контакта требуется одобрение пользователя."
+
+#: admin/class-joinchat-admin-page.php:428
+msgid "0 to disable"
+msgstr "0 для отключения"
+
+#: admin/class-joinchat-admin-page.php:408
+msgid "Display QR code on desktop to scan with phone"
+msgstr "Отображение QR-кода на настольном компьютере для сканирования с помощью телефона"
+
+#: admin/class-joinchat-admin-page.php:395
+msgid "-1 to display directly without animation"
+msgstr "-1 для отображения непосредственно без анимации"
+
+#: admin/class-joinchat-admin-page.php:497
+msgid "Opt-in is a users’ consent to receive messages from a business."
+msgstr "Подписка — это согласие пользователей на получение сообщений от компании."
+
+#: admin/class-joinchat-admin-page.php:217
+msgid "Google Ads Conversion"
+msgstr "Конверсия Google Рекламы"
+
+#: admin/class-joinchat-admin-page.php:159
+#: admin/class-joinchat-admin-page.php:504
+msgid "Opt-in Required"
+msgstr "Требуется согласие"
+
+#: admin/class-joinchat-admin-page.php:158
+#: admin/class-joinchat-admin-page.php:496
+msgid "Opt-in Text"
+msgstr "Текст согласия"
+
+#: admin/class-joinchat-admin-page.php:148
+#: admin/class-joinchat-admin-page.php:406 gutenberg/build/index.js:1
+msgid "QR Code"
+msgstr "QR-код"
+
+#: admin/class-joinchat-admin-page.php:790
+msgid "is an example, double click to use it"
+msgstr "это пример, дважды щелкните, чтобы использовать его"
+
+#: includes/class-joinchat-i18n.php:151
+msgid "There are changes in fields that can be translated"
+msgstr "Есть изменения в полях, которые можно перевести"
+
+#: admin/class-joinchat-admin.php:192
+msgid "Go to settings"
+msgstr "Перейти к настройкам"
+
+#: admin/class-joinchat-admin.php:191
+msgid "You only need to add your WhatsApp number to contact with your users."
+msgstr "Вам нужно только добавить свой номер WhatsApp, чтобы связаться с вашими пользователями."
+
+#: admin/class-joinchat-woo-admin.php:186
+msgid "Thank You"
+msgstr "Спасибо вам"
+
+#: includes/class-joinchat-integrations.php:114
+msgctxt "Keywords in Elementor Finder"
+msgid "woocommerce,shop,product"
+msgstr "woocommerce, магазин, товар"
+
+#: includes/class-joinchat-integrations.php:111
+msgctxt "Title in Elementor Finder"
+msgid "WooCommerce Settings"
+msgstr "Настройки WooCommerce"
+
+#: includes/class-joinchat-elementor-finder.php:63
+msgctxt "Keywords in Elementor Finder"
+msgid "visibility,show,hide"
+msgstr "видимость, показать, скрыть"
+
+#: includes/class-joinchat-elementor-finder.php:60
+msgctxt "Title in Elementor Finder"
+msgid "Visibility Settings"
+msgstr "Настройки видимости"
+
+#: includes/class-joinchat-elementor-finder.php:57
+#: includes/class-joinchat-elementor-finder.php:64
+#: includes/class-joinchat-integrations.php:115
+msgid "Joinchat settings page"
+msgstr "Страница настроек Joinchat"
+
+#: includes/class-joinchat-elementor-finder.php:56
+msgctxt "Keywords in Elementor Finder"
+msgid "settings,phone"
+msgstr "настройки, телефон"
+
+#: includes/class-joinchat-elementor-finder.php:53
+msgctxt "Title in Elementor Finder"
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: admin/class-joinchat-admin-page.php:606
+#: admin/class-joinchat-admin-page.php:608
+#: admin/class-joinchat-admin-page.php:619
+#: admin/class-joinchat-admin-page.php:622
+#: admin/class-joinchat-admin-page.php:629 admin/class-joinchat-admin.php:156
+msgid "e.g."
+msgstr "напр."
+
+#: admin/class-joinchat-admin-page.php:619
+#: admin/class-joinchat-admin-page.php:622
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+#: admin/class-joinchat-admin-page.php:620
+#: admin/class-joinchat-admin-page.php:623
+msgid "to show chat window (or open WhatsApp if there is no CTA)."
+msgstr "чтобы показать окно чата (или открыть WhatsApp, если нет CTA)."
+
+#: admin/class-joinchat-admin-page.php:467
+msgid "Custom:"
+msgstr "Произвольно:"
+
+#: admin/class-joinchat-admin-page.php:465
+msgid "WhatsApp Logo"
+msgstr "Логотип WhatsApp"
+
+#: admin/class-joinchat-admin-page.php:463
+msgid "Powered by Joinchat"
+msgstr "На платформе Joinchat"
+
+#: admin/class-joinchat-admin-page.php:155
+#: admin/class-joinchat-admin-page.php:461
+msgid "Header"
+msgstr "Заголовок (header)"
+
+#: admin/class-joinchat-admin-page.php:152
+#: admin/class-joinchat-woo-admin.php:215
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#. translators: 1: Joinchat, 2: Add review link.
+#: admin/class-joinchat-admin-page.php:849
+msgid "Do you like %1$s? Please help us with a %2$s rating."
+msgstr "Вам нравится %1$s? Пожалуйста, помогите нам с оценкой %2$s."
+
+#: admin/class-joinchat-admin-page.php:423
+msgid "Text to open chat on Chat Window button"
+msgstr "Текст для открытия чата на кнопке окна чата"
+
+#: admin/class-joinchat-admin-page.php:390
+msgid "Short text shown next to button"
+msgstr "Короткий текст, отображаемый рядом с кнопкой"
+
+#: admin/class-joinchat-admin-page.php:385
+msgid "The image will alternate with button icon"
+msgstr "Изображение будет чередоваться со значком кнопки"
+
+#: admin/class-joinchat-admin-page.php:815
+msgid "Joinchat Settings"
+msgstr "Настройки Joinchat"
+
+#: admin/class-joinchat-admin.php:251
+msgid "Support"
+msgstr "Тех.поддержка"
+
+#: admin/partials/premium.php:18 admin/partials/premium.php:44
+msgid "Add-on"
+msgstr "Дополнение"
+
+#: admin/class-joinchat-admin.php:250 admin/partials/premium.php:34
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/class-joinchat-admin-page.php:628
+msgid "to show always."
+msgstr "Показывать всегда. "
+
+#: admin/class-joinchat-admin-page.php:627
+msgid "only show if it's an not seen CTA."
+msgstr "показывать только если не видно CTA (призыва к действию). "
+
+#: admin/class-joinchat-admin-page.php:600
+msgid "Triggers"
+msgstr "Триггеры"
+
+#: admin/class-joinchat-admin-page.php:647
+msgid "If you like Joinchat 😍"
+msgstr "Если вам нравится Joinchat 😍"
+
+#: admin/class-joinchat-admin-page.php:434
+msgid "Chat Window auto displays from this number of page views"
+msgstr "Окно чата автоматически показывается после данного количества просмотров страниц"
+
+#: admin/class-joinchat-admin-page.php:429
+msgid "Chat Window auto displays after delay"
+msgstr "Окно чата автоматически появляется после задержки "
+
+#: admin/class-joinchat-admin-page.php:304
+msgid "Visibility Settings"
+msgstr "Настройки видимости. "
+
+#: admin/class-joinchat-admin-page.php:163
+msgid "Page Views"
+msgstr "Просмотры страниц"
+
+#: admin/class-joinchat-admin-page.php:153
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: admin/class-joinchat-admin-page.php:62 admin/partials/term-meta-box.php:39
+#: gutenberg/build/index.js:1
+msgid "Visibility"
+msgstr "Видимость"
+
+#: public/partials/html.php:51 public/partials/preview.php:41
+msgid "Close"
+msgstr "Закрыть"
+
+#. Plugin URI of the plugin
+msgid "https://join.chat"
+msgstr "https://join.chat"
+
+#. Plugin Name of the plugin
+#: admin/class-joinchat-admin.php:274 admin/partials/term-meta-box.php:15
+#: gutenberg/build/index.js:1
+msgid "Joinchat"
+msgstr "Joinchat"
+
+#: admin/partials/post-meta-box.php:30 admin/partials/term-meta-box.php:34
+#: gutenberg/build/index.js:1
+msgid "to leave it blank use"
+msgstr "чтобы оставить пустым используйте"
+
+#: admin/partials/post-meta-box.php:28 admin/partials/term-meta-box.php:32
+#: gutenberg/build/index.js:1
+msgid "Can use vars"
+msgstr "Может использовать переменные "
+
+#. translators: %s: Joinchat twitter link.
+#: admin/class-joinchat-admin-page.php:661
+msgid "Follow %s on twitter."
+msgstr "Следите за %s на Twitter. "
+
+#. translators: %s: Add review link.
+#: admin/class-joinchat-admin-page.php:651
+msgid "Please leave us a %s rating. We'll thank you."
+msgstr "Поставьте нам рейтинг %s пожалуйста. Мы будем очень благодарны. "
+
+#: admin/class-joinchat-admin-page.php:454
+msgid "Auto (detects device dark mode)"
+msgstr "Авто (определяет тёмную тему на устройстве) "
+
+#: admin/class-joinchat-admin-page.php:452
+msgid "Yes"
+msgstr "Да"
+
+#: admin/class-joinchat-admin-page.php:450
+msgid "No"
+msgstr "Нет"
+
+#: admin/class-joinchat-admin-page.php:154
+#: admin/class-joinchat-admin-page.php:448
+msgid "Dark Mode"
+msgstr "Темный режим"
+
+#: admin/class-joinchat-woo-admin.php:357
+msgid "For the <strong>Call to Action for Products on Sale</strong>, you can also use:"
+msgstr "Для режима <strong>Call to Action для товаров со скидкой</strong>, Вы также можете использовать:"
+
+#: admin/class-joinchat-woo-admin.php:294
+msgid "Define a text for your products on sale to encourage customers to contact"
+msgstr "Впишите текст для вывода на страницах товаров со скидкой, чтобы стимулировать клиентов написать Вам немедленно"
+
+#: admin/class-joinchat-woo-admin.php:292
+msgid ""
+"Save {DISCOUNT}! This *{PRODUCT}* can be yours for only ~{REGULAR}~ *{PRICE}*.\n"
+"If you have any questions, ask us."
+msgstr ""
+"Сэкономьте {DISCOUNT}! *{PRODUCT}* можно купить всего за ~{REGULAR}~ *{PRICE}*.\n"
+"Если у Вас есть вопросы, напишите нам."
+
+#: admin/class-joinchat-woo-admin.php:287
+msgid "Define a text for your products to encourage customers to contact"
+msgstr "Впишите текст для вывода на страницах товаров, чтобы стимулировать клиентов написать Вам немедленно"
+
+#: admin/class-joinchat-woo-admin.php:205
+msgid "Message for Products"
+msgstr "Сообщение на странице товара"
+
+#: admin/class-joinchat-woo-admin.php:204
+msgid "Call to Action for Products on Sale"
+msgstr "Призыв к действию для товаров со скидкой"
+
+#: admin/class-joinchat-woo-admin.php:203
+msgid "Call to Action for Products"
+msgstr "Призыв к действию для товаров"
+
+#: admin/class-joinchat-admin-page.php:286
+msgid "You can introduce yourself, offer help or even make promotions to your users."
+msgstr "Вы можете представиться, предложить помощь или даже сделать рекламные акции для своих пользователей."
+
+#: admin/class-joinchat-admin-page.php:285
+msgid "If you define a \"Call to Action\" a window will be displayed simulating a chat before launching WhatsApp."
+msgstr "Если Вы впишете свой текст в поле \"Call to Action\", то перед запуском WhatsApp появится окно, имитирующее чат."
+
+#: admin/class-joinchat-woo-admin.php:301
+msgid "Predefined text for the first message the client will send you"
+msgstr "Текст для первого сообщения, которое Вам отправит клиент"
+
+#: admin/class-joinchat-admin-page.php:422
+#: includes/class-joinchat-common.php:110
+msgid "Open chat"
+msgstr "Открыть чат"
+
+#: admin/class-joinchat-admin-page.php:418
+msgid "Predefined text for the first message the user will send you"
+msgstr "Предустановленный текст для первого сообщения, которое пользователь пошлет Вам"
+
+#: admin/class-joinchat-admin-page.php:413
+msgid "Define a text to encourage users to contact by WhatsApp"
+msgstr "Впишите текст, чтобы побудить пользователей связаться с помощью WhatsApp"
+
+#: admin/class-joinchat-admin-page.php:389
+msgid "💬 Need help?"
+msgstr "💬 Вам помочь?"
+
+#: admin/class-joinchat-admin-page.php:384
+msgid "Remove"
+msgstr "Убрать"
+
+#: admin/class-joinchat-admin-page.php:383
+msgid "Use image"
+msgstr "Использовать изображение"
+
+#: admin/class-joinchat-admin-page.php:383
+msgid "Select button image"
+msgstr "Выберите изображение кнопки"
+
+#: admin/class-joinchat-admin-page.php:382
+msgid "Select an image"
+msgstr "Выберите изображение"
+
+#: admin/class-joinchat-admin-page.php:164
+#: admin/class-joinchat-admin-page.php:438
+msgid "Notification Balloon"
+msgstr "Шарик с уведомлением (💬)"
+
+#: admin/class-joinchat-admin-page.php:143
+msgid "Tooltip"
+msgstr "Подсказка"
+
+#: admin/class-joinchat-admin-page.php:142
+msgid "Image"
+msgstr "Изображение"
+
+#: admin/class-joinchat-woo-admin.php:353
+msgid "Product Name"
+msgstr "Название товара"
+
+#: admin/class-joinchat-woo-admin.php:351
+msgid "<strong>WooCommerce</strong>, in product pages you can also use:"
+msgstr "<strong>В WooCommerce</strong>, на товарных страницах, Вы также можете использовать:"
+
+#: admin/class-joinchat-woo-admin.php:299
+msgid ""
+"*Hi {SITE}!*\n"
+"I have a question about *{PRODUCT} ({SKU})*"
+msgstr ""
+"*Здравствуйте {SITE}!*\n"
+"У меня есть вопрос по поводу *{PRODUCT} ({SKU})*"
+
+#: admin/class-joinchat-woo-admin.php:285
+msgid ""
+"This *{PRODUCT}* can be yours for only *{PRICE}*!\n"
+"If you have any questions, ask us."
+msgstr ""
+"*{PRODUCT}* продаётся всего за *{PRICE}*!\n"
+"Если у Вас есть вопросы, напишите нам."
+
+#: admin/class-joinchat-woo-admin.php:257
+msgid "You can define other different texts for the Chat Window on the product pages."
+msgstr "Вы можете написать другие тексты для окна чата на страницах товаров."
+
+#: admin/class-joinchat-woo-admin.php:256
+msgid "Product Chat Window"
+msgstr "Окно чата для товарных страниц"
+
+#: admin/class-joinchat-woo-admin.php:252
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/class-joinchat-admin-page.php:735
+msgid "You can use vars"
+msgstr "Вы можете использовать переменные"
+
+#. translators: %s: Joinchat page link.
+#: admin/class-joinchat-admin-page.php:656
+msgid "Subscribe to our newsletter and visit our blog at %s."
+msgstr "Подпишитесь на нашу рассылку и посетите наш блог в %s."
+
+#: admin/class-joinchat-admin-page.php:593
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: admin/class-joinchat-admin-page.php:590
+msgid "You can use dynamic variables that will be replaced by the values of the page the user visits:"
+msgstr "Вы можете использовать динамические переменные, которые будут заменены значениями страницы, посещаемую пользователь:"
+
+#: admin/class-joinchat-admin-page.php:587
+msgid "Styles and Variables"
+msgstr "Стили и переменные"
+
+#: admin/class-joinchat-admin-page.php:295
+#: admin/class-joinchat-admin-page.php:736
+msgid "Show Help"
+msgstr "Показать справку"
+
+#. Description of the plugin
+msgid "Connects a WordPress chat with WhatsApp. The best solution for marketing and support. Stop losing customers and increase your sales."
+msgstr "Добавляет в WordPress кнопку WhatsApp чата. Лучшее решение для маркетинга и поддержки. Прекратите терять клиентов и увеличьте свои продажи."
+
+#: admin/class-joinchat-admin-page.php:402
+msgid "Open <em>WhatsApp Web</em> directly on desktop"
+msgstr "Открывать <em>WhatsApp Web</em> в браузере на компьютере"
+
+#: admin/class-joinchat-admin-page.php:396
+msgid "Time since the page is opened until the button is displayed"
+msgstr "Время с момента открытия страницы до отображения кнопки"
+
+#: admin/class-joinchat-admin-page.php:440
+msgid "Display a notification balloon instead of opening the Chat Window for a \"less intrusive\" mode"
+msgstr "Отображение всплывающего уведомления вместо открытия окна чата для \"менее навязчивого\" режима"
+
+#: admin/class-joinchat-admin-page.php:395
+#: admin/class-joinchat-admin-page.php:428
+msgid "seconds"
+msgstr "сек."
+
+#: admin/class-joinchat-admin-page.php:283
+msgid "Chat Window"
+msgstr "Окно чата"
+
+#: admin/class-joinchat-admin-page.php:278
+msgid "Button"
+msgstr "Кнопка"
+
+#: admin/class-joinchat-admin-page.php:162
+msgid "Chat Delay"
+msgstr "Задержка чата"
+
+#: admin/class-joinchat-admin-page.php:147
+#: admin/class-joinchat-admin-page.php:400
+msgid "WhatsApp Web"
+msgstr "WhatsApp Web"
+
+#: admin/class-joinchat-admin-page.php:145
+msgid "Button Delay"
+msgstr "Задержка кнопки"
+
+#: admin/partials/post-meta-box.php:38 admin/partials/term-meta-box.php:46
+#: gutenberg/build/index.js:1
+msgid "Default visibility"
+msgstr "Видимость по умолчанию"
+
+#: admin/class-joinchat-admin-page.php:348
+msgid "Inherit"
+msgstr "Унаследован"
+
+#: admin/class-joinchat-admin-page.php:346
+#: admin/class-joinchat-admin-page.php:571 admin/partials/post-meta-box.php:36
+#: admin/partials/term-meta-box.php:44 gutenberg/build/index.js:1
+msgid "Hide"
+msgstr "Скрыть"
+
+#: admin/class-joinchat-admin-page.php:344
+#: admin/class-joinchat-admin-page.php:569 admin/partials/post-meta-box.php:34
+#: admin/partials/term-meta-box.php:42 gutenberg/build/index.js:1
+msgid "Show"
+msgstr "Показать"
+
+#: admin/class-joinchat-admin-page.php:306
+msgid "Restore default visibility"
+msgstr "Восстановить видимость по умолчанию"
+
+#: admin/class-joinchat-admin-page.php:305
+msgid "From here you can configure on which pages the WhatsApp button will be visible."
+msgstr "Здесь Вы можете настроить, на каких страницах будет видна кнопка WhatsApp."
+
+#: admin/class-joinchat-admin-page.php:63
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: admin/class-joinchat-admin-page.php:61
+msgid "General"
+msgstr "Общие настройки"
+
+#: admin/class-joinchat-admin-page.php:314
+msgid "Custom Post Types"
+msgstr "Пользовательские типы записей"
+
+#: admin/class-joinchat-woo-admin.php:187
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: admin/class-joinchat-woo-admin.php:185
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: admin/class-joinchat-woo-admin.php:184
+msgid "Cart"
+msgstr "Корзина"
+
+#: admin/class-joinchat-woo-admin.php:183
+msgid "Product Page"
+msgstr "Страница товара"
+
+#: admin/class-joinchat-woo-admin.php:182
+msgid "Shop"
+msgstr "Магазин"
+
+#: admin/class-joinchat-admin-page.php:188
+msgid "Post"
+msgstr "Запись"
+
+#: admin/class-joinchat-admin-page.php:187
+msgid "Page"
+msgstr "Страница"
+
+#: admin/class-joinchat-admin-page.php:186
+msgid "Singular"
+msgstr "Единичный"
+
+#: admin/class-joinchat-admin-page.php:185
+msgid "Author Archives"
+msgstr "Архивы автора"
+
+#: admin/class-joinchat-admin-page.php:184
+msgid "Date Archives"
+msgstr "Архивы дат"
+
+#: admin/class-joinchat-admin-page.php:183
+msgid "Archives"
+msgstr "Архивы"
+
+#: admin/class-joinchat-admin-page.php:182
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: admin/class-joinchat-admin-page.php:181
+msgid "404 Page"
+msgstr "Страница 404"
+
+#: admin/class-joinchat-admin-page.php:180
+msgid "Blog Page"
+msgstr "Страница блога"
+
+#: admin/class-joinchat-admin-page.php:179
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: admin/class-joinchat-admin-page.php:174
+msgid "Global"
+msgstr "Общие"
+
+#: admin/class-joinchat-admin-onboard.php:189
+#: admin/class-joinchat-admin-page.php:417
+msgid "Hi *{SITE}*! I need more info about {TITLE} {URL}"
+msgstr "Здравствуйте, *{SITE}*! Меня интересует {TITLE} {URL}"
+
+#: admin/class-joinchat-admin-onboard.php:194
+#: admin/class-joinchat-admin-page.php:412
+msgid ""
+"Hello 👋\n"
+"Can we help you?"
+msgstr ""
+"Здравствуйте 👋\n"
+"Чем Вам помочь?"
+
+#: admin/class-joinchat-admin-onboard.php:188
+#: admin/class-joinchat-admin-page.php:141 admin/partials/post-meta-box.php:25
+#: admin/partials/term-meta-box.php:27 gutenberg/build/index.js:1
+msgid "Message"
+msgstr "Сообщение"
+
+#: admin/class-joinchat-admin-page.php:370
+msgid "Left"
+msgstr "Слева"
+
+#: admin/class-joinchat-admin-page.php:372
+msgid "Right"
+msgstr "Справа"
+
+#: admin/class-joinchat-admin-page.php:589
+msgid "You can use formatting styles like in WhatsApp: _<em>italic</em>_ *<strong>bold</strong>* ~<del>strikethrough</del>~."
+msgstr "Вы можете использовать форматирование текста, как в WhatsApp: _<em>Курсив</em>_ *<strong>Жирный шрифт</strong>* ~<del>Зачеркнутый текст</del>~."
+
+#: admin/class-joinchat-admin-page.php:144
+#: admin/class-joinchat-admin-page.php:368
+msgid "Position on Screen"
+msgstr "Положение на странице"
+
+#. Author URI of the plugin
+msgid "https://crea.me"
+msgstr "https://crea.me"
+
+#. Author of the plugin
+msgid "Creame"
+msgstr "Creame"
+
+#: admin/class-joinchat-admin.php:230
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/class-joinchat-admin-page.php:364
+msgid "Only display the button on mobile devices"
+msgstr "Показывать кнопку WhatsApp только на мобильных устройствах"
+
+#: admin/class-joinchat-admin-page.php:358
+msgid "Contact WhatsApp number <strong>(the button will not be shown if it's empty)</strong>"
+msgstr "Контактный номер WhatsApp <strong>(кнопка не будет отображаться, если она пуста)</strong>"
+
+#: admin/class-joinchat-admin.php:104
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#: admin/class-joinchat-admin-onboard.php:193
+#: admin/class-joinchat-admin-page.php:151 admin/partials/post-meta-box.php:21
+#: admin/partials/term-meta-box.php:23 gutenberg/build/index.js:1
+msgid "Call to Action"
+msgstr "Призыв к действию"
+
+#: admin/class-joinchat-admin-page.php:146
+#: admin/class-joinchat-admin-page.php:362
+msgid "Mobile Only"
+msgstr "Только для мобильных устройств"
+
+#: admin/class-joinchat-admin-page.php:140 admin/partials/post-meta-box.php:17
+#: admin/partials/term-meta-box.php:19 gutenberg/build/index.js:1
+msgid "Telephone"
+msgstr "Телефон"
